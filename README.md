@@ -1,3 +1,6 @@
-# trabalho final de python
+# Trabalho Final de Python 
 
-app com tkinter
+DISCIPLINA ::  Desenvolvimento Rápido de Aplicações em Python
+
+
+APP SIMPLES EM PYTHON USANDO TKYNTER
